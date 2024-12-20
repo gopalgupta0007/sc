@@ -36,6 +36,7 @@ while True:
 print("Final weights ",weights," makes predicted output ",actual," desired output ",desired ," same.")
 
 
+# OUTPUT
 #Enter Inputs :1
 #Enter Desired Output :3
 #Enter Desired Output :4
