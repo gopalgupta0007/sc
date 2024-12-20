@@ -35,3 +35,13 @@ while True:
 
 print("Final weights ",weights," makes predicted output ",actual," desired output ",desired ," same.")
 
+
+#Enter Inputs :1
+#Enter Desired Output :3
+#Enter Desired Output :4
+#Desired Output are : [2. 3. 4.]
+#Enter learning rate :1
+#Learning Rate is : 1.0
+#Predicted Output is : [1. 1. 1.]
+#Desired Output is : [2. 3. 4.]
+#Final weights  [2. 3. 4.]  makes predicted output  [2. 3. 4.]  desired output  [2. 3. 4.]  same.
