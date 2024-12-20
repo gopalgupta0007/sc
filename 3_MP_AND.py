@@ -67,3 +67,27 @@ for i in range(0,n):
 print("x1 x2 w1 w2 yin2 yop2")
 for i in range(0,n):
     print(x1[i]," ",x2[i]," ", w1," ", w2 ," ",yin2[i] ," ", yop2[i])
+
+# OUTPUT
+#enter the number of nueron : 4
+#enter x1 : 1
+#enter x2 : 1
+#enter x1 : 1
+#enter x2 : 0
+#enter x1 : 0
+#enter x2 : 1
+#enter x1 : 0
+#enter x2 : 0
+#w1=w2=1
+#x1 x2 w1 w2 yin1 yop1
+#1   1   1   1   2   1
+#1   0   1   1   1   1
+#0   1   1   1   1   1
+#0   0   1   1   0   0
+#w1=1
+#w2=-1
+#x1 x2 w1 w2 yin2 yop2
+#1   1   1   -1   0   0
+#1   0   1   -1   1   1
+#0   1   1   -1   -1   0
+#0   0   1   -1   0   0
