@@ -65,7 +65,35 @@ print("Weights of neuron z2")
 print(w21)
 print(w22)
 print("Weights of neuron Y") 
+
+
 print(v1)
 print(v2) 
 print("Threshold") 
 print(theta)
+
+# OUTPUT
+#Enter Weights
+#Weights w11=1
+#Weights w12=-1
+#Weights w21=-1
+#Weights w22=1
+#Weights v1=1
+#Weights v2=1
+#Enter threshold value
+#yin [0. 1. 1. 0.]
+#Output of Net:
+#y [0 1 1 0]
+#z [0 1 1 0]
+#MP Output:
+#Weights of neuron z1
+#1      
+#-1      
+#Weights of neuron z2
+#-1
+#1
+#Weights of neuron Y
+#1
+#1
+#Threshold
+#1
