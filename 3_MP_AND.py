@@ -19,6 +19,8 @@ print("w1=w2=1")
 for i in range(0,n):
     yin = x1[i]*w1+x2[i]*w2
     yin1.append(yin)
+    # theta=n*w-p
+    theta=2*w-0
     if(yin>=theta):
         yop1.append(1)
     else:
